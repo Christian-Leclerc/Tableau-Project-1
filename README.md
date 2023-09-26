@@ -22,7 +22,7 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
         </div>
     </p>
 </div>
----
+* * *
 
 ## Results
 
