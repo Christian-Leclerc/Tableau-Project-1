@@ -23,9 +23,7 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
     </p>
 </div>
 
-<div style="page-break-after: always; visibility: hidden"> 
- 
-</div>
+>* * *
 
 ## Results
 
