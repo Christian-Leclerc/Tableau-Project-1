@@ -10,17 +10,17 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
 
 ## Process
 <div>
-<p align="center">
-    <img src="/images/Process.png" align="left" width=300px style="margin-right: 20px">
-    <div>
-        <p>In the data folder, you will find the cleaning_data.ipynb Jupyter Notebook that explain my process of cleaning and preparing the Excel file extracted from the FAA (given by the LightHouse Labs school).
-        </p>
-        <p>With the cleaned file, I used Tableau to create several visuals while exploring the data trying to find relevant trends, outliers and any interesting insights.
-        </p>
-        <p>I eventually identified a question I wanted to answer and created a Dashboard to help answering it and presenting it to the school students.
-        </p>
-    </div>
-</p>
+    <p align="center">
+        <img src="/images/Process.png" align="left" width=300px style="margin-right: 20px">
+        <div>
+            <p>In the data folder, you will find the cleaning_data.ipynb Jupyter Notebook that explain my process of cleaning and preparing the Excel file extracted from the FAA (given by the LightHouse Labs school).
+            </p>
+            <p>With the cleaned file, I used Tableau to create several visuals while exploring the data trying to find relevant trends, outliers and any interesting insights.
+            </p>
+            <p>I eventually identified a question I wanted to answer and created a Dashboard to help answering it and presenting it to the school students.
+            </p>
+        </div>
+    </p>
 </div>
 
 <br>
