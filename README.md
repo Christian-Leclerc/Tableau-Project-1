@@ -22,7 +22,7 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
         </div>
     </p>
 </div>
-________________________
+---
 ## Results
 
 There was two options to choose from the school scope of work. The standard option where the questions were already pre-determined and the other option where we determine our own question and the way we want to create the dashboard. 
