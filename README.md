@@ -23,7 +23,7 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
     </p>
 </div>
 
-<div style="height: 20px;"></div>
+<div height:200px></div>
 
 ## Results
 
