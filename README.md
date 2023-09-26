@@ -23,10 +23,10 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
     </p>
 </div>
 
-<br>
-<div>
-    ## Results
-</div>
+<div style="height: 20px;"></div>
+
+## Results
+
 
 There was two options to choose from the school scope of work. The standard option where the questions were already pre-determined and the other option where we determine our own question and the way we want to create the dashboard. 
 I chose the FAA Wildlife Strike from the second option list. It came with an Excel sheet with the data extracted from the FAA from 2000 to 2015 of all the reported wildlife strikes at each airport of the United States.
