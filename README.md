@@ -3,14 +3,14 @@
 ## Purpose and Goals
 
 This repository contains an analysis of the Wildlife Strike from the Federal Aviation Administration database (FAA) of the United States from 2000 to 2015.
-![FAA Logo](images/FAA%20Logo.png)
+![FAA Logo](/images/FAA%20Logo.png)
 [www.wildlife.faa.gov](https://wildlife.faa.gov/home)
 
 The intent was to use my new skills using [Tableau](https://www.tableau.com/trial/tableau-software#reveal-hero) to conduct exploratory visuals analysis, create a dashboard and present a story answering a specific question. The focus of the analysis was to ***help airports and airliners pin point the scope of the problem*** for their specific location and help them identify the risks and the **cost** associated to it.
 
 ## Process
 
-![FAA Logo](/images/FAA%20Logo.png)
+![Process](/images/Process.png)
 In the data folder, you will find the [cleaning_data.ipynb](/data/cleaning_data.ipynb) Jupyter Notebook that explain my process of cleaning and preparing the Excel file extracted from the FAA (given by the LightHouse Labs school).
 With the cleaned file, I used Tableau to create several visuals while exploring the data trying to find relevant trends, outliers and any interesting insights.
 I eventually identified a question I wanted to answer and created a Dashboard to help answering it and presenting it to the school students.
@@ -33,6 +33,15 @@ I divided my scope of work in 4 steps:
 - **When** the damage occurs
 - **Effect** of the damage
 - **Wildlife** associated to the damage
+
+#### Trends
+
+
+#### WHEN
+
+#### EFFECT
+
+#### WILDLIFE
 
 
 
