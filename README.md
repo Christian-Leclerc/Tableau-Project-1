@@ -10,8 +10,8 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
 
 ## Process
 
-<img src="images/Process.png" alt="Image" style="float: left; margin-right: 10;" />
-In the [data](/data) folder, you will find the [cleaning_data](/data/cleaning_data.ipynb) Jupyter Notebook that explain my process of cleaning and preparing the Excel file extracted from the FAA (given by the LightHouse Labs school).
+<img src="images/Process.png" alt="Image" style="float: left; margin-right: 10 px;" />
+In the data folder, you will find the [cleaning_data.ipynb](/data/cleaning_data.ipynb) Jupyter Notebook that explain my process of cleaning and preparing the Excel file extracted from the FAA (given by the LightHouse Labs school).
 With the cleaned file, I used Tableau to create several visuals while exploring the data trying to find relevant trends, outliers and any interesting insights.
 I eventually identified a question I wanted to answer and created a Dashboard to help answering it and presenting it to the school students.
 
