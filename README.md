@@ -11,7 +11,7 @@ The intent was to use my new skills using [Tableau](https://www.tableau.com/tria
 ## Process
 <div>
     <p align="center">
-        <img src="/images/Process.png" align="left" width=300px style="margin-right: 20px">
+        <img src="/images/Process.png" align="left" width=150px style="margin-right: 20px">
         <div>
             <p>In the data folder, you will find the cleaning_data.ipynb Jupyter Notebook that explain my process of cleaning and preparing the Excel file extracted from the FAA (given by the LightHouse Labs school).
             </p>
